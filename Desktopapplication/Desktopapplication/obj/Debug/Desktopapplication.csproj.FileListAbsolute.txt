@@ -1,0 +1,14 @@
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.csproj.AssemblyReference.cache
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.Form1.resources
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.Properties.Resources.resources
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.csproj.GenerateResource.cache
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.csproj.CoreCompileInputs.cache
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\bin\Debug\Desktopapplication.exe.config
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\bin\Debug\Desktopapplication.exe
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\bin\Debug\Desktopapplication.pdb
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.exe
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.pdb
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\bin\Debug\Desktopapplication.exe.manifest
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\bin\Debug\Desktopapplication.application
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.exe.manifest
+C:\Users\923400221916\source\repos\Desktopapplication\Desktopapplication\obj\Debug\Desktopapplication.application
